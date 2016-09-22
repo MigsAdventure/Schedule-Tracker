@@ -2,6 +2,7 @@ const React = require('react');
 const InputForm = require('./InputForm.js');
 const Table = require('./Table.js');
 
+
 const App = React.createClass({
   getInitialState() {
      return {
